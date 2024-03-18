@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Leonardo 👋
+
+
+I'm a backend developer pursuing a software engineering degree. 
+>"It's not just about coding; it's about understanding why you're coding something in a particular way".
+
+I currently live in Bogotá, Colombia 🇨🇴
+
+I like to build things with Python, Go and C# 🤖.
+
+I have experience building software for scientific computing and near surface geophysics.
+
 
 <!--
 **lquinonesd/lquinonesd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
