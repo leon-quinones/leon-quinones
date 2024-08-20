@@ -1,8 +1,7 @@
 # Hi there, I'm Leonardo 👋
 
 
-I'm a self-taught backend developer.  
-Also, I'm software engineer interested in building large scale applications.
+I'm a  software engineer interested in building large scale applications who start being a self-taught backend developer.
 >"It's not just about coding; it's about understanding why you're coding something in a particular way". [1](https://www.altcademy.com/blog/is-pursuing-a-software-engineering-degree-worthwhile/)
 >  
 
@@ -10,10 +9,11 @@ I currently live in Bogotá, Colombia. 🇨🇴
 
 I like to build things with Python, Go and C# 🤖.
 
-I have experience building software for scientific computing in near surface geophysics, using scipy and numba packages, but i'm currently developing web applications with .NET framework!.
+I have experience building web apps and Web APIs using .NET  
+Also, I have experience programming for scientific computing for near-surface geophysics companies, using fortran, python, scipy and numba.
 
-## Some stats about my developer's activity:
-#### Github Activity :smile_cat:
+##
+### Github Activity :smile_cat:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leonquinones&show_icons=true&theme=dracula" />
 </a>  
@@ -21,7 +21,7 @@ I have experience building software for scientific computing in near surface geo
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonquinones&layout=compact&langs_count=8&card_width=240&theme=dracula"" />
 </a>
 
-#### Coding Activity :hourglass_flowing_sand:
+### Coding Activity :hourglass_flowing_sand:
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonquinones&theme=dracula")](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonquinones&show_icons=true&theme=synthwave)
