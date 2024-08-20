@@ -2,7 +2,7 @@
 
 
 I'm a self-taught backend developer.  
-Also, I'm software engineering degree interested in building large scale applications.
+Also, I'm software engineer interested in building large scale applications.
 >"It's not just about coding; it's about understanding why you're coding something in a particular way". [1](https://www.altcademy.com/blog/is-pursuing-a-software-engineering-degree-worthwhile/)
 >  
 
