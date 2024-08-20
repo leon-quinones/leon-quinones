@@ -1,7 +1,8 @@
 ### Hi there, I'm Leonardo 👋
 
 
-I'm a backend developer pursuing a software engineering degree. 
+I'm a self-taught backend developer.
+Also, I'm advancing in my software engineering degree to build large scale applications in a near future.
 >"It's not just about coding; it's about understanding why you're coding something in a particular way".
 
 I currently live in Bogotá, Colombia 🇨🇴
