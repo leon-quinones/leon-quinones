@@ -15,10 +15,10 @@ Also, I have experience programming for scientific computing for near-surface ge
 ##
 ### Github Activity :smile_cat:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leonquinones&show_icons=true&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leon-quinones&show_icons=true&theme=dracula" />
 </a>  
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonquinones&layout=compact&langs_count=8&card_width=240&theme=dracula"" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leon-quinones&layout=compact&langs_count=8&card_width=240&theme=dracula"" />
 </a>
 
 ### Coding Activity :hourglass_flowing_sand:
