@@ -1,5 +1,5 @@
 # Hi there, I'm Leonardo 👋
-
+[![wakatime](https://wakatime.com/badge/user/0ff5a6fb-aec7-4089-a716-badfa0088bd1.svg?style=flat)](https://wakatime.com/@0ff5a6fb-aec7-4089-a716-badfa0088bd1)
 
 I'm a  software engineer interested in building large scale applications who start being a self-taught backend developer.
 >"It's not just about coding; it's about understanding why you're coding something in a particular way". [1](https://www.altcademy.com/blog/is-pursuing-a-software-engineering-degree-worthwhile/)
