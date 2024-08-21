@@ -1,5 +1,5 @@
 # Hi there, I'm Leonardo 👋
-[![wakatime](https://wakatime.com/badge/user/0ff5a6fb-aec7-4089-a716-badfa0088bd1.svg?style=flat)](https://wakatime.com/@0ff5a6fb-aec7-4089-a716-badfa0088bd1)
+[![Codewars](https://www.codewars.com/users/leonquinones/badges/micro)](https://www.codewars.com/users/leonquinones/badges/micro)
 
 I'm a  software engineer interested in building large scale applications who start being a self-taught backend developer.
 >"It's not just about coding; it's about understanding why you're coding something in a particular way". [1](https://www.altcademy.com/blog/is-pursuing-a-software-engineering-degree-worthwhile/)
@@ -22,7 +22,9 @@ Also, I have experience programming for scientific computing for near-surface ge
 </a>
 
 ### Coding Activity :hourglass_flowing_sand:
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonquinones&theme=dracula")](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/0ff5a6fb-aec7-4089-a716-badfa0088bd1.svg?style=flat)](https://wakatime.com/@0ff5a6fb-aec7-4089-a716-badfa0088bd1)
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonquinones&theme=dracula")](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonquinones&show_icons=true&theme=synthwave)
 #### Coding Activity
