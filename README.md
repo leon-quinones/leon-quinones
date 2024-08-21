@@ -17,9 +17,7 @@ Also, I have experience programming for scientific computing for near-surface ge
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leon-quinones&show_icons=true&theme=dracula" />
 </a>  
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leon-quinones&layout=compact&langs_count=8&card_width=240&theme=dracula"" />
-</a>
+
 
 ### Coding Activity :hourglass_flowing_sand:
 [![wakatime](https://wakatime.com/badge/user/0ff5a6fb-aec7-4089-a716-badfa0088bd1.svg?style=flat)](https://wakatime.com/@0ff5a6fb-aec7-4089-a716-badfa0088bd1)
@@ -33,7 +31,9 @@ Also, I have experience programming for scientific computing for near-surface ge
 
 <!--
 **lquinonesd/lquinonesd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leon-quinones&layout=compact&langs_count=8&card_width=240&theme=dracula"" />
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
