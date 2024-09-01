@@ -22,7 +22,12 @@ Also, I have experience programming for scientific computing for near-surface ge
 ### Coding Activity :hourglass_flowing_sand:
 [![wakatime](https://wakatime.com/badge/user/0ff5a6fb-aec7-4089-a716-badfa0088bd1.svg?style=flat)](https://wakatime.com/@0ff5a6fb-aec7-4089-a716-badfa0088bd1)
 
+### Weekly Report
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonquinones&theme=dracula")](https://github.com/anuraghazra/github-readme-stats)
+
+### Cumulative Report (Since 2024 Sept 1th )
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonquinones&api_domain=wakapi.dev&theme=dracula")](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonquinones&show_icons=true&theme=synthwave)
 #### Coding Activity
