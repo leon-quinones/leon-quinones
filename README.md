@@ -26,7 +26,7 @@ Also, I have experience programming for scientific computing for near-surface ge
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonquinones&theme=dracula")](https://github.com/anuraghazra/github-readme-stats)
 
 ### Cumulative Report (Since 2024 Sept 1th )
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonquinones&api_domain=wakapi.dev&theme=dracula_title=Wakapi%20Week%20Stats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonquinones&api_domain=wakapi.dev&title_color=f28482&title=Wakapi%20Week%20Stats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonquinones&api_domain=wakapi.dev&theme=dracula")](https://github.com/anuraghazra/github-readme-stats)
 [![leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonquinones&show_icons=true&theme=synthwave)
