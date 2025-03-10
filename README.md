@@ -13,11 +13,12 @@ I have experience building web apps and Web APIs using .NET, Python and NodeJs
 Also, I have experience programming in scientific computing for near-surface geophysics companies, using Fortran, Python, Scipy and Numba.
 
 ##
+<!--
 ### Github Activity :smile_cat:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leon-quinones&show_icons=true&theme=dracula" />
 </a>  
-
+-->
 
 ### Coding Activity :hourglass_flowing_sand:
 [![wakatime](https://wakatime.com/badge/user/0ff5a6fb-aec7-4089-a716-badfa0088bd1.svg?style=flat)](https://wakatime.com/@0ff5a6fb-aec7-4089-a716-badfa0088bd1)
