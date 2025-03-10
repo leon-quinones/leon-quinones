@@ -9,8 +9,8 @@ I currently live in Bogotá, Colombia. 🇨🇴
 
 I like to build things with Python, Go and C# 🤖.
 
-I have experience building web apps and Web APIs using .NET  
-Also, I have experience programming for scientific computing for near-surface geophysics companies, using fortran, python, scipy and numba.
+I have experience building web apps and Web APIs using .NET, Python and NodeJs
+Also, I have experience programming in scientific computing for near-surface geophysics companies, using Fortran, Python, Scipy and Numba.
 
 ##
 ### Github Activity :smile_cat:
