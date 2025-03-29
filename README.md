@@ -7,29 +7,30 @@ I'm a  software engineer interested in building large scale applications who sta
 
 I currently live in Bogotá, Colombia. 🇨🇴
 
-I like to build things with Python, Go and C# 🤖.
+I like to build things with Python, Go, Javascript and C# 🤖.
 
 I have experience building web apps and Web APIs using .NET, Python and NodeJs
 Also, I have experience programming in scientific computing for near-surface geophysics companies, using Fortran, Python, Scipy and Numba.
 
 ##
-<!--
+
+
+### Coding Activity :hourglass_flowing_sand:
+[![wakatime](https://wakatime.com/badge/user/0ff5a6fb-aec7-4089-a716-badfa0088bd1.svg?style=flat)](https://wakatime.com/@0ff5a6fb-aec7-4089-a716-badfa0088bd1) 👈 *Click here to check more insightful statistics* 😸
+
 ### Github Activity :smile_cat:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leon-quinones&show_icons=true&theme=dracula" />
 </a>  
--->
 
-### Coding Activity :hourglass_flowing_sand:
-[![wakatime](https://wakatime.com/badge/user/0ff5a6fb-aec7-4089-a716-badfa0088bd1.svg?style=flat)](https://wakatime.com/@0ff5a6fb-aec7-4089-a716-badfa0088bd1)
 <!--
 ### Weekly Report
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonquinones&theme=dracula")](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!--
-### Cumulative Report (Since 2024 Sept 1th )
+Cumulative Report (Since 2024 Sept 1th ) \
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonquinones&api_domain=wakapi.dev&title_color=f28482&title=Wakapi%20Week%20Stats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonquinones&api_domain=wakapi.dev&theme=dracula")](https://github.com/anuraghazra/github-readme-stats)
 [![leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonquinones&show_icons=true&theme=synthwave)
 #### Coding Activity
