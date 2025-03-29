@@ -16,7 +16,7 @@ Also, I have experience programming in scientific computing for near-surface geo
 
 
 ### Coding Activity :hourglass_flowing_sand:
-[![wakatime](https://wakatime.com/badge/user/0ff5a6fb-aec7-4089-a716-badfa0088bd1.svg?style=flat)](https://wakatime.com/@0ff5a6fb-aec7-4089-a716-badfa0088bd1) 👈 *Click here to check more insightful statistics* 😸
+[![wakatime](https://wakatime.com/badge/user/0ff5a6fb-aec7-4089-a716-badfa0088bd1.svg?style=flat)](https://wakatime.com/@0ff5a6fb-aec7-4089-a716-badfa0088bd1) 👈 *Click here to check an insightful report* 😸
 
 ### Github Activity :smile_cat:
 <a href="https://github.com/anuraghazra/github-readme-stats">
