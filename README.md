@@ -1,7 +1,7 @@
 # Hi there, I'm Leonardo 👋
 [![Codewars](https://www.codewars.com/users/leonquinones/badges/micro)](https://www.codewars.com/users/leonquinones/badges/micro)
 
-I'm a  software engineer interested in building large scale applications who start being a self-taught backend developer.
+I'm a  software engineer interested in building large scale applications who started being a self-taught backend developer.
 >"It's not just about coding; it's about understanding why you're coding something in a particular way". [1](https://www.altcademy.com/blog/is-pursuing-a-software-engineering-degree-worthwhile/)
 >  
 
